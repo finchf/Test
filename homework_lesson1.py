@@ -1,3 +1,9 @@
+dosigur0eoshog
+dfshojgfdsihgsfd
+
+isfdihfsdpifdhs
+
+
 age = input('Введи вік: ')
 age = int(age)
 name = input('Введіть ім`я: ')
