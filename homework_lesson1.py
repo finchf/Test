@@ -19,6 +19,7 @@ if age % 2:
     print('Не парне')
 else:
     print('Парне')
+    
 
 
     
